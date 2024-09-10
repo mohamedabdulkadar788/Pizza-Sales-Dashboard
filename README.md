@@ -23,5 +23,5 @@ To use this project, you need:
 
 1. **SQL File**:
    - Open your preferred SQL environment (SQL Server, MySQL, etc.).
-   - Run the `Pizza_Sales_2015.sql` script to create the necessary tables and insert the dataset.
+   - Run the `pizza_sales_mysql.sql` script to create the necessary tables and insert the dataset.
    - Ensure your database is up and running.
