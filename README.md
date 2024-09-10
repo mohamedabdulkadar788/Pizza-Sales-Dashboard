@@ -8,8 +8,7 @@ This project aims to provide a comprehensive analysis of pizza sales data using 
 - Total sales per month
 - Sales by pizza type and size
 - Top-selling pizzas
-- Sales by customer demographics
-- Performance comparison of different branches
+- Sales by different categories of Pizza
 
 ## Getting Started
 
